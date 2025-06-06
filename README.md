@@ -1,5 +1,9 @@
 # kickstart.nvim
 
+# Joe's Notes
+
+Added open-with-nvim.exe from (https://github.com/ostromia/open-with-nvim)
+
 ## Introduction
 
 A starting point for Neovim that is:
